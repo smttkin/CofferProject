@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 django = "*"
 djoser = "*"
+django-environ = "*"
+django-templated-email = "*"
+django-anymail = {extras = ["mailjet"], version = "*"}
+django-storages = {extras = ["s3"], version = "*"}
+django-cron = "*"
 
 [dev-packages]
 
