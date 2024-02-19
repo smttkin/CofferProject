@@ -52,6 +52,8 @@ INSTALLED_APPS = [
     'anymail',
     'templated_email',
     'django_cron',
+    'company_management_app',
+    'member_management_app'
 ]
 
 MIDDLEWARE = [

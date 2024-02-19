@@ -161,7 +161,8 @@ cython_debug/
 
 Pipfile.lock
 
+.vscode/
+**/migrations/
+
 #Temporaries 
 templates/email
-
-.vscode/
